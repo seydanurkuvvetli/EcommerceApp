@@ -37,7 +37,6 @@
 
 
 
-
 | Home Screen             | Detail Screen             | Favorite Screen|
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/seydanurkuvvetli/EcommerceApp/assets/72807269/34e52f8f-f256-4b30-8cad-c46f1ef44af9" alt="project-screenshot" width="200" height="400/">|<img src="https://github.com/seydanurkuvvetli/EcommerceApp/assets/72807269/5ac8408a-4035-4c9f-844a-9a867331c59f" alt="project-screenshot" width="200" height="400/">|<img src="https://github.com/seydanurkuvvetli/EcommerceApp/assets/72807269/bb6486ea-fd1e-4a68-b0cb-276c3e7cefda" width="200" height="400/">
@@ -53,3 +52,7 @@
 | Success Screen             | Search Screen             | Profile Screen|
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img src="https://github.com/seydanurkuvvetli/EcommerceApp/assets/72807269/8b6c03b2-2de5-4434-a6a8-13f5e32b6f78" width="200" height="400/">|<img src="https://github.com/seydanurkuvvetli/EcommerceApp/assets/72807269/81c613bb-6404-4e70-91e5-c20a546575df" width="200" height="400/">|<img src="https://github.com/seydanurkuvvetli/EcommerceApp/assets/72807269/14dc7ef2-8f59-48dd-b2eb-3ff98c1022c5" width="200" height="400/">
+
+| WorkManager            |
+:-------------------------:|
+<img src="https://github.com/seydanurkuvvetli/EcommerceApp/assets/72807269/61fbacab-6967-47f9-8b59-98b4adc55430" width="200" height="400/">|
